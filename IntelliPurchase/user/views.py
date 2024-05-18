@@ -62,6 +62,9 @@ def save_history(request):
 @csrf_exempt
 def recent_history(request):
     if request.method == 'POST':
+        if not request.user.is_authenticated:
+            return JsonResponse({'message': 'Authentication required'}, status=400)
+        
         product1_name = request.POST.get('product1_name')
         product2_name = request.POST.get('product2_name')
         product1_id = Product.objects.filter(product_name=product1_name).first().product_id
