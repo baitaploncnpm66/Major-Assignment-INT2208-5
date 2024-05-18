@@ -1,16 +1,16 @@
 # IntelliPurchase
 ## Link hệ thống: [link](http://13.238.195.79:8000/)
 ## Video demo: [link](https://youtu.be/hp9F7mq3mOY)
-## Báo cáo dự án: [link](https://www.notion.so/B-o-c-o-d-n-6466d99781d04cd9954d3b9336898c2f)
+## Báo cáo dự án: [link](https://drive.google.com/file/d/13Scgm074sxAc-07qlGBZbowCUptDDoVV/view?usp=sharing)
 ## Link dự án trước: [github](https://github.com/baitaploncnpm66/Mobile-e-commerce-review-sentiment-classification)
 ## Tài liệu về hệ thống:
-- Problem Statement: [link](https://www.notion.so/M-t-v-n-b2e73a30053c4f6cb587a579313c0ff7?pvs=21)
-- System Glossary: [link](https://www.notion.so/Ch-gi-i-h-th-ng-IntelliPurchase-d4f063a56cbd47ff87314c133c6407b0?pvs=21)
-- System Specification: [link](https://www.notion.so/c-t-h-th-ng-IntelliPurchase-66e49c81288241d19ba850a029ae237d?pvs=21)
-- System Supplementary Specification: [link](https://www.notion.so/c-t-b-sung-h-th-ng-IntelliPurchase-1c95bb4efb8a43a5a601621baf20ebf2?pvs=21)
-- Scenarios, User Stories: [link](https://www.notion.so/Scenarios-v-User-stories-41987e52c308475fac5aafa920805ae6?pvs=21)
-- Use-Case Model: [link](https://rainy-infinity-73a.notion.site/Ph-n-t-ch-thi-t-k-h-th-ng-513f8bd3af5b427da6c2f9ac9b248a9e?pvs=4)
-- User Manual: [link](https://www.notion.so/H-ng-d-n-s-d-ng-User-Manual-763c1e9529e04bccb7b9a24e78034a86?pvs=21)
+- Problem Statement: [link](https://drive.google.com/file/d/1ANg4OiaLZVKevgtWIH8ulUIlT_YkzGTN/view?usp=sharing)
+- System Glossary: [link](https://drive.google.com/file/d/1TdKHSnemjcRdbc1TrBWnTGDE07S0a6Eo/view?usp=sharing)
+- System Specification: [link](https://drive.google.com/file/d/1SZTrhboc5_JfEPXKk0prJZfrG4PyNpD-/view?usp=sharing)
+- System Supplementary Specification: [link](https://drive.google.com/file/d/1MR4xCp6HM5yZ6Mi2-einHPb6JLzmWBHk/view?usp=sharing)
+- Scenarios, User Stories: [link](https://drive.google.com/file/d/1PZBCHRUaYcgjQMt4uYXhEdk-9FnAKTqa/view?usp=sharing)
+- Use-Case Model: [link](https://drive.google.com/file/d/13dpZ632XSWyJG-32SKF2spc7khcHVHBa/view?usp=sharing)
+- User Manual: [link](https://drive.google.com/file/d/1u1teAh1m9lAwESrdosInRwbtKSja4uQ3/view?usp=sharing)
 
 # Bài tập lớn môn Công nghệ phần mềm INT2208 5
 # Trang web phân tích bán hàng IntelliPurchase
