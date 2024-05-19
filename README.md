@@ -1,7 +1,7 @@
 # IntelliPurchase
 ## Link hệ thống: [link](http://13.238.195.79:8000/)
 ## Video demo: [link](https://youtu.be/hp9F7mq3mOY)
-## Báo cáo dự án: [link](https://drive.google.com/file/d/1p-zcYOKpvo-cXShUTXLi3PdcOfKKkmN_/view?usp=sharing)
+## Báo cáo dự án: [link](https://drive.google.com/file/d/1h5br8ZjXlMAhj2QIrY1QxkZKV3Sfijl5/view?usp=sharing)
 ## Link dự án trước: [github](https://github.com/baitaploncnpm66/Mobile-e-commerce-review-sentiment-classification)
 ## Tài liệu về hệ thống:
 - Problem Statement: [link](https://drive.google.com/file/d/1ANg4OiaLZVKevgtWIH8ulUIlT_YkzGTN/view?usp=sharing)
